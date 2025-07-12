@@ -1,0 +1,5 @@
+produtos_custo_interno:
+  - id
+  - id_produto_interno
+  - quantidade
+  - mercadologico
